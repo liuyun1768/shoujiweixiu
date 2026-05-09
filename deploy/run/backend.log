@@ -1,0 +1,300 @@
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:1597929) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+
+Node.js v22.22.2
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:1599575) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+
+Node.js v22.22.2
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:1602848) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at node:net:2206:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+
+Node.js v22.22.2
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:1604360) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:1609246) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:1611031) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:1625021) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:1626483) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:1629699) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:1632618) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:1635476) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2443123) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2451388) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2453056) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2466863) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2482051) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2513829) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2563706) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2568341) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2582709) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2614124) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2640352) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2648342) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2661957) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2687222) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2717043) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2720470) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2722255) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2725324) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2728850) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2738688) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2743351) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2746251) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2751309) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2755370) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2755989) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2763636) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2771992) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2774215) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2776799) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_PATH -> /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite
+[shoujiweixiu-api] SQLITE_BUSY_TIMEOUT_MS -> 15000(default)
+(node:2778229) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[shoujiweixiu-api] http://127.0.0.1:3001
+[sqlite] database file: /vol1/shoujiweixiu/var/lib/shoujiweixiu/repair_system.sqlite

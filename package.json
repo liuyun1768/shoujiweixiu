@@ -1,0 +1,8 @@
+{
+  "name": "shoujiweixiu-workspace",
+  "private": true,
+  "scripts": {
+    "sync-kuaidi": "powershell -ExecutionPolicy Bypass -File ./sync-kuaidi-print.ps1",
+    "sync-kuaidi-vendor": "powershell -ExecutionPolicy Bypass -File ./scripts/sync-repair-kuaidi-vendor.ps1"
+  }
+}
